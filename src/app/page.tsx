@@ -304,7 +304,7 @@ export default function Home() {
                 <br />
               </span>
               <span className="block">
-                our own teams' curated examples and use cases.
+                our own teams curated examples and use cases.
               </span>
             </span>
           </div>
